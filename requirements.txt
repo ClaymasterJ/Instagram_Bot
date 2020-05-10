@@ -1,0 +1,4 @@
+playsound
+selenium
+chromedriver
+pyyaml
